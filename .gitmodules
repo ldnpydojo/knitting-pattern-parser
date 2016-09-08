@@ -1,0 +1,3 @@
+[submodule "team-2/dojo-knitting"]
+	path = team-2/dojo-knitting
+	url = git@github.com:tomviner/dojo-knitting.git
